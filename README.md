@@ -13,7 +13,7 @@ Advanced Sorting Algorithms:
   - Quick Sort
   - Radix Sort
 
-The main motive of the sorting visualizer application is to show how different sorting algorithms sorts (in this case numbers represented as rectangle) in real-time.
+The main motive of the sorting visualizer application is to show how different sorting algorithms sorts (in this case numbers represented as rectangles) in real-time.
 
 Enjoy !!!
 
