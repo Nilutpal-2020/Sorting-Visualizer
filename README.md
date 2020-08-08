@@ -1,7 +1,8 @@
 # Sorting-Visualizer
 A Sorting Visualizer application using pygame
 
-The Sorting Visualizer consists of 6 most popular sorting algorithms namely
+The Sorting Visualizer consists of 6 most popular sorting algorithms namely,
+
 Naive Sorting Algorithms:
   - Bubble Sort
   - Selection Sort
